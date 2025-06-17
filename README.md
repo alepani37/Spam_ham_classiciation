@@ -65,10 +65,15 @@ jupyter notebook
 #Struttura del progetto
 
 -/data #Il file csv contenente il dataset
--bert_fine_tuned.ipynb #il notebook per fare fine tuning e test di bert, di default PRE_TRAINED è true, in modo da usare i pesi del modello già fine-tunato. \n
+-bert_fine_tuned.ipynb #il notebook per fare fine tuning e test di bert, di default PRE_TRAINED è true, in modo da usare i pesi del modello già fine-tunato.
+
 -roberta_fine_tuned.ipynb #il notebook per fare fine tuning e test di roberta, di default PRE_TRAINED è true, in modo da usare i pesi del modello già fine-tunato.
+
 -llama_fine_tuned.ipynb #il notebook per fare fine tuning e test di llama, di default PRE_TRAINED è true, in modo da usare i pesi del modello già fine-tunato. IMPORTANTE: inserire il proprio token di huggingface.
+
 -phi_fine_tuned.ipynb #il notebook per fare fine tuning e test di phi, di default PRE_TRAINED è true, in modo da usare i pesi del modello già fine-tunato.IMPORTANTE: inserire il proprio token di huggingface.
+
 -llama_infer.ipynb #il notebook per fare fine per fare test zero shot su Llama.IMPORTANTE: inserire il proprio token di huggingface.
+
 -phi_infer.ipynb #il notebook per fare fine per fare test zero shot su Phi.IMPORTANTE: inserire il proprio token di huggingface.
 
