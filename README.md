@@ -2,7 +2,7 @@
 
 Materiale del progetto per il corso di Deep Learning and Applications
 
-#Prerequisiti ed installazione
+# Prerequisiti ed installazione
 
 -Python >= 3.11
 
