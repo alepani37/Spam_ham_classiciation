@@ -58,7 +58,7 @@ pip install -r requirements.txt
 pip install notebook
 ```
 
-###Scaricare i modelli
+### Scaricare i modelli
 
 Scaricare al link https://1drv.ms/f/c/9e23e1a65fd6baef/EhERM2UKOm1Ig7hQzO0beB0B3FbyrlDkDS5EHQu5Vc7U_A?e=4FHAsG tutti i modelli e inserirli singolarmente nella cartella Spam_ham_classiciation
 
