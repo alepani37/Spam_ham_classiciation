@@ -60,7 +60,7 @@ pip install notebook
 
 ### Scaricare i modelli
 
-Scaricare al link https://1drv.ms/f/c/9e23e1a65fd6baef/EhERM2UKOm1Ig7hQzO0beB0BpgIrZ1XxxN7daDjnPniaPA?e=uJdryi tlo zip, estrarlo e inserire singolarmente nella cartella Spam_ham_classiciation tutti i file e cartelle presenti nella cartella appena decompressa.
+Scaricare al link https://1drv.ms/u/c/9e23e1a65fd6baef/EfZ_9ENVUExPlSxMf_8E6nUBaAoNjz7F1ahsjEScCi3Mbw?e=qNuOHj tlo zip, estrarlo e inserire singolarmente nella cartella Spam_ham_classiciation tutti i file e cartelle presenti nella cartella appena decompressa.
 
 ### Avvia il server Jupyter:
 
