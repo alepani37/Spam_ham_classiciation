@@ -84,7 +84,7 @@ parso==0.8.4
 peft==0.15.2
 pillow==11.0.0
 pip==24.0
-platformdir==4.3.8
+platformdirs==4.3.8
 prometheus_client==0.22.1
 prompt_toolkit==3.0.51
 propcache==0.3.2
