@@ -39,12 +39,12 @@ source venv/bin/activate
 ```
 
 ### 3. Installazione delle dipendenze
-## 3.1 Installazione di torch
+#### 3.1 Installazione di torch
 ```bash
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 ```
 
-## 3.2 Installazione delle altre librerie
+#### 3.2 Installazione delle altre librerie
 
 ```bash
 pip install -r requirements.txt
