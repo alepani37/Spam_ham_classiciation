@@ -39,6 +39,16 @@ source venv/bin/activate
 ```
 
 ### 3. Installazione delle dipendenze
+
+#### IF SE USI COLAB IGNORA QUESTA SEZIONE E INSTALLA SOLO QUESTI DUE PACCHETTI:
+```bash
+!pip install peft
+```
+
+```bash
+!pip install --quiet bitsandbytes
+```
+
 #### 3.1 Installazione di torch
 ```bash
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
@@ -69,6 +79,8 @@ jupyter notebook
 ```
 
 #Struttura del progetto
+
+Se usi Colab ricorda di aggiungere ad ogni path Spam_ham_classiciation/
 
 -/data #Il file csv contenente il dataset
 -bert_fine_tuned.ipynb #il notebook per fare fine tuning e test di bert, di default PRE_TRAINED è true, in modo da usare i pesi del modello già fine-tunato.
